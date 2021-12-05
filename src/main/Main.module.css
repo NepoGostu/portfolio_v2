@@ -1,0 +1,15 @@
+.mainBlock {
+    height: 100vh;
+    background-color: azure;
+    padding: 10px 0px;
+}
+
+.greeting {
+    width: 300px;
+    background-color: #61dafb;
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #61dafb;
+}

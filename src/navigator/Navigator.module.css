@@ -1,0 +1,6 @@
+.navigator {
+   border: 1px solid darkred;
+   width: 300px;
+   display: flex;
+   justify-content: space-evenly;
+}

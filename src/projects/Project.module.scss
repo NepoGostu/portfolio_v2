@@ -1,0 +1,57 @@
+@import '../../src/common/styles/saas/variables';
+@import '../../src/common/styles/saas/mixins';
+
+.project {
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(253, 247, 239);
+
+  .image {
+    height: 300px;
+    background-color: $primaryColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+    & :before {
+      position: absolute;
+      content: '';
+      background-color: $textColor;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0.4;
+    }
+
+    .viewBtn {
+      background-color: #e5bc96;
+      padding: 10px 20px;
+      position: relative;
+      z-index: 1;
+      color: $textColor;
+    }
+  }
+
+  .projectInfo {
+    padding: 10px;
+
+    .title {
+      @include text('Roboto', sans-serif, 20px, 1.2,);
+      font-weight: 600;
+      text-transform: capitalize;
+      letter-spacing: 2px;
+      margin: 0 0 15px;
+    }
+
+    .description {
+      @include text('Roboto', sans-serif, 15px, 1.2,);
+      font-weight: 400;
+    }
+  }
+}
