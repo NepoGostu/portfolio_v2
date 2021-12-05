@@ -9,17 +9,20 @@
     flex-direction: column;
     justify-content: flex-start;
     flex-wrap: nowrap;
+  }
+
+@media screen and (max-width: 750px) {
+  .projectsContainer {
+    display: flex;
+    justify-content: center;
+  }
+}
 
     .projects {
       margin-top: 30px;
       width: 100%;
       display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      align-items: flex-start;
-      @media screen and (max-width: 1129px) {
-        justify-content: center;
-      }
+
     }
-  }
+
 

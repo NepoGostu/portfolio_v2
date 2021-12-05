@@ -1,4 +1,6 @@
 .mainBlock {
+    display: flex;
+    justify-content: center;
     height: 100vh;
     background-color: azure;
     padding: 10px 0px;

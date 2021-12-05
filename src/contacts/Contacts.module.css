@@ -13,6 +13,7 @@
 }
 
 .contactForm {
+    margin: 5px;
     width: 50%;
     background-color: #d6d6d6;
     display: flex;
@@ -29,7 +30,7 @@
     background-color: #eeeef5;
 }
 
-@media screen and (max-width: 1129px) {
+@media screen and (max-width: 750px) {
     .contactForm input, .contactForm textarea {
         width: 100%;
     }

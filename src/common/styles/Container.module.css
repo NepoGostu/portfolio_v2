@@ -9,7 +9,7 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
     .container {
         display: flex;
         justify-content: center;
