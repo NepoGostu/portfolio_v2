@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/git@github.com:NepoGostu/portfolio_v2.git/static/css/main.85ee3a21.chunk.css",
+    "main.js": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/main.2ba0926c.chunk.js",
+    "main.js.map": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/main.2ba0926c.chunk.js.map",
+    "runtime-main.js": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/runtime-main.c1184ba5.js",
+    "runtime-main.js.map": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/runtime-main.c1184ba5.js.map",
+    "static/js/2.95d6e21a.chunk.js": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/2.95d6e21a.chunk.js",
+    "static/js/2.95d6e21a.chunk.js.map": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/2.95d6e21a.chunk.js.map",
+    "static/js/3.1b9226b1.chunk.js": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/3.1b9226b1.chunk.js",
+    "static/js/3.1b9226b1.chunk.js.map": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/3.1b9226b1.chunk.js.map",
+    "index.html": "/git@github.com:NepoGostu/portfolio_v2.git/index.html",
+    "static/css/main.85ee3a21.chunk.css.map": "/git@github.com:NepoGostu/portfolio_v2.git/static/css/main.85ee3a21.chunk.css.map",
+    "static/js/2.95d6e21a.chunk.js.LICENSE.txt": "/git@github.com:NepoGostu/portfolio_v2.git/static/js/2.95d6e21a.chunk.js.LICENSE.txt",
+    "static/media/socialNetwork.f98e43eb.png": "/git@github.com:NepoGostu/portfolio_v2.git/static/media/socialNetwork.f98e43eb.png",
+    "static/media/todolist.994cc97d.png": "/git@github.com:NepoGostu/portfolio_v2.git/static/media/todolist.994cc97d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1184ba5.js",
+    "static/js/2.95d6e21a.chunk.js",
+    "static/css/main.85ee3a21.chunk.css",
+    "static/js/main.2ba0926c.chunk.js"
+  ]
+}
